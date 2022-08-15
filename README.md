@@ -1,2 +1,2 @@
 # Named_Entity_Recognition
-Build and train a bi-directional LSTM with Keras. Solve the Named Entity Recognition (NER) problem with LSTMs
+Build and train a Transformers model with Keras to solve the Named Entity Recognition (NER) problem.
